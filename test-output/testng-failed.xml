@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testNGFramework]">
+  <test name="Formy_Registration_Flow(failed)">
+    <classes>
+      <class name="testNGFramework.Formy">
+        <methods>
+          <include name="a_webBrowser"/>
+          <include name="d_selectArea"/>
+          <include name="b_datasTextField"/>
+          <include name="c_radioButton"/>
+        </methods>
+      </class> <!-- testNGFramework.Formy -->
+    </classes>
+  </test> <!-- Formy_Registration_Flow(failed) -->
+</suite> <!-- Failed suite [testNGFramework] -->

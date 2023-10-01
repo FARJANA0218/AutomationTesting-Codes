@@ -1,0 +1,19 @@
+<?xml version="1.0" enco////////////////////////////////////////ding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testNGFramework">
+  <test name="AlertPopupAssing2_Follow">
+    <classes>
+      <class name="testNGFramework.AlertPopupAssing2"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="CloseQuit_Follow">
+    <classes>
+      <class name="testNGFramework.CloseQuitDemo"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Formy_register_Follow">
+    <classes>
+      <class name="testNGFramework.Formy"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->t
